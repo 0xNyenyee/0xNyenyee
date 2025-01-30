@@ -1,39 +1,61 @@
-<h2 align="center">"Professional nolep yang ahli dalam mengubah waktu sendirian jadi cuan. Santai di dunia, serius di rekening bank" 💸✨</h2>
+<h5 align="left">𝓗𝓪𝓵𝓵𝓸 𝓝𝔂𝓮</h5>
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGp2YjdmY2ZzM2ZzY2NlazI4ZDdteDluaTI0YWE2eWY0NGxmcmZiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjI53nBYOOEQgDcY/giphy.gif"  />
+<h2 align="center">"ᴘʀᴏꜰᴇꜱꜱɪᴏɴᴀʟ ɴᴏʟᴇᴘ ʏᴀɴɢ ᴀʜʟɪ ᴅᴀʟᴀᴍ ᴍᴇɴɢᴜʙᴀʜ ᴡᴀᴋᴛᴜ ꜱᴇɴᴅɪʀɪᴀɴ ᴊᴀᴅɪ ᴄᴜᴀɴ. ꜱᴀɴᴛᴀɪ ᴅɪ ᴅᴜɴɪᴀ, ꜱᴇʀɪᴜꜱ ᴅɪ ʀᴇᴋᴇɴɪɴɢ ʙᴀɴᴋ" 💸✨</h2>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="30" alt="digitalocean logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="30" alt="cloudflare logo"  />
+<div align="center">
+  <img height="600" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGRiMHMxbXUxdWUxMXJjYTNxeHFxMTJwOTdqb3NkbTZuMWl3ZzF6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="50" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmxuNTQybTZ1eXR5MnR4ZXg4eDBkYTV1aW80dXMybngxZXdoeW94cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YRPX1liFs5wQ7WYd4z/giphy.gif"  />
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <a href="mailto:rivalbaik4@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<br clear="both">
+<div align="right">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="digitalocean logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+</div>
+
+###
+
+<p align="center">𝐋𝐞𝐯𝐞𝐥 𝐆𝐚𝐦𝐞</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xNyenyee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xNyenyee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=0xNyenyee&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<p align="center">Ｃａｃｉｎｇ Ｂｅｓａｒ Ａｌａｋｓａ</p>
+
+###
 
 <img src="https://raw.githubusercontent.com/0xNyenyee/0xNyenyee/output/snake.svg" alt="Snake animation" />
 
